@@ -1,7 +1,8 @@
 {
   "package": {
     "scripts": {
-      "commit": "cz"
+      "commit": "cz",
+      "lint-staged": "lint-staged"
     },
     "dependencies": {
       "@testing-library/jest-dom": "^5.11.4",

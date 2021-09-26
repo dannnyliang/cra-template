@@ -26,3 +26,4 @@ For more information, please refer to:
 
 ### Scripts
 - `cz`: make commit messages conventional with [cz-conventional-changelog](https://github.com/commitizen/cz-conventional-changelog) adapter.
+- `lint-staged`: use [lint-staged](https://github.com/okonet/lint-staged) to run linters or foramtter to unify the coding styling.
